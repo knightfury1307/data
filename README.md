@@ -1,5 +1,5 @@
 # data
-ython library used 
+Python library used 
 Pandas - used for data analysis and data manipulation
 tweepy - used to handle twitter api
 
