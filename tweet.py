@@ -1,9 +1,9 @@
 import pandas as pd
-import numpy as np
+
 
 df  = pd.read_csv('tweets.csv')
 
-#print(df['Tweet'])
+
 def checkWord(text):
     count =0
     myList = ['fuck', 'shit','ten' , 'toxic' , 'to','stupid','yelling' ,'Mfs' ,'kill' ,'armed' , 'penalty' ,'drop','dead' , 'deleted' , 'bitch' ,'fight' , 'dumb' ,'danger' ]
