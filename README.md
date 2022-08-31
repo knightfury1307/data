@@ -1,4 +1,4 @@
-#Twiiter tweets Analysis
+# Twiiter tweets Analysis
 Python library used 
 Pandas - used for data analysis and data manipulation
 tweepy - used to handle twitter api
